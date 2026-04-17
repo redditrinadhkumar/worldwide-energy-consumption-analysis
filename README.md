@@ -70,11 +70,6 @@ All tables are connected using **Country** and **Year**.
 ## 📈 Conclusion
 The project highlights the need to balance economic growth with cleaner and more efficient energy usage. It also shows how a few countries contribute disproportionately to global emissions.
 
-## 👨‍💻 Team Members
-- Trinadh Kumar Reddi
-- Tannidi Hemanth
-- Ch Vishwak Ratna
-
 ## 📎 Project Files
 - SQL Queries
 - Dataset CSV Files
